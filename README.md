@@ -15,5 +15,6 @@ A simple real‑time two‑player matching game built with Firebase Realtime Dat
 
 ## Setup
 1. Clone this repo:
+   ```bash
    git clone https://github.com/janusingh20/two-player-matching-game.git
    cd two-player-matching-game
